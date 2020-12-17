@@ -5,7 +5,7 @@
 {
     'name': 'Summary',
     'summary': 'Summary Module used by CLVsol Solutions.',
-    'version': '12.0.4.0',
+    'version': '14.0.5.0',
     'author': 'Carlos Eduardo Vercelino - CLVsol',
     'category': 'CLVsol Solutions',
     'license': 'AGPL-3',
@@ -23,6 +23,7 @@
         'views/summary_view.xml',
         'views/summary_log_view.xml',
         'views/file_system_view.xml',
+        'views/summary_menu_view.xml',
         'data/global_log_client.xml',
     ],
     'demo': [],
